@@ -1,0 +1,10 @@
+numpy==2.5.3
+scipy==1.18.1
+scikit-image==0.26.0
+matplotlib==3.11.2
+torch==2.15.0
+trimesh==5.2.2
+pymeshfix==0.18.1
+streamlit==1.67.0
+plotly==7.2.0
+nibabel==5.5.0
